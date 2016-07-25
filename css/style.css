@@ -1,0 +1,182 @@
+@font-face {
+    font-family: "black-rose";
+    src: url("http://db.onlinewebfonts.com/t/11cb75b7499efb20880b32114e881464.eot");
+    src: url("http://db.onlinewebfonts.com/t/11cb75b7499efb20880b32114e881464.eot?#iefix") format("embedded-opentype"),
+    url("http://db.onlinewebfonts.com/t/11cb75b7499efb20880b32114e881464.woff2") format("woff2"),
+    url("http://db.onlinewebfonts.com/t/11cb75b7499efb20880b32114e881464.woff") format("woff"),
+    url("http://db.onlinewebfonts.com/t/11cb75b7499efb20880b32114e881464.ttf") format("truetype"),
+    url("http://db.onlinewebfonts.com/t/11cb75b7499efb20880b32114e881464.svg#BlackRoseW00-Regular") format("svg");
+}
+
+/*navbar style property starts here*/
+/*#home
+{ 
+	width:100%;
+	height:666px;
+	background:url("../img/11.jpg") no-repeat center center;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-size:cover;
+
+}
+*/
+.fashion
+{
+	margin-top: 15px;
+   color:#AD0EEF;
+}
+.nav-text
+{
+	color:#fff;
+	padding:15px 16px;
+}
+.nav-text:hover
+{
+	cursor:pointer;
+	/*background:#ff8000;*/
+	border-bottom:3px solid #ff8000;
+	color:#000;
+}
+span
+{
+	color:#fff;
+}
+span:hover
+{
+	cursor: pointer;
+	color:#992299;
+}
+.border
+{
+	border-bottom:3px solid #fff;
+
+}
+.icons
+{
+	margin-top:17px;
+	padding:5px 15px;
+	font-size:10px;
+}
+.icon
+{
+	padding:5px 15px;
+	color:#fff;
+}
+.fa:hover
+{
+	cursor: pointer;
+	color:#ff8000;
+}
+.fashion1
+{   
+	position:relative;
+    top:20px;
+    left:0px;
+	color:#fff;
+
+}
+/*navbar style property endz here*/
+
+/*about starts here*/
+
+/*.about1
+{
+	background: url(img/pushu.jpg) center center;
+	width:100%;
+	position:relative;
+	top:40px;
+	left:450px;
+	font-size: 50px;
+	color:#fff;
+	font-family:'black-rose';
+}	
+*/	
+
+
+/*about stop here*/
+
+
+/*gallery start here
+*/
+/*.gallery
+{
+	width:100%;
+	height:100%;
+	position:relative;
+}*/
+/*.style1
+{
+	height:100%;
+	width:100%;
+	/*top:200%;*//**/*/
+
+
+.top
+{
+	padding:100px !important;
+}
+   
+
+
+/*gallery endz here
+*/
+
+/*contact satrt here*/
+.contact
+{
+	font-size:40px;
+	color:#fff;
+	text-align:center;
+	padding-top:100px;
+}
+.contact:hover
+{
+	cursor:pointer;
+	color:#fff;
+}
+.name
+{
+	font-size:20px;
+	color:#779966;
+	text-align:center;
+	padding-top:40px;
+}
+.e-mail
+{
+	font-size:20px;
+	color:#779966;
+	text-align:center;
+	padding-top:40px;
+}
+.phone
+{
+	font-size:20px;
+	color:#779966;
+	text-align:center;
+	padding-top:40px;
+}
+.top{
+	margin:20px 0;
+}
+/*contact endzz here*/
+.image_height
+{
+	height:300px;
+}
+.image_height img
+{
+	height:90%;
+}
+.txt1
+{
+	font-size: 24px;
+}
+.con
+{
+	background-attachment: fixed;
+	background:url("../img/map.png") center center #7e3878;
+	background-position:center;
+	width: 100%;
+	height: 800px;
+	background-size:cover;
+}
